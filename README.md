@@ -1,2 +1,1 @@
-# hello-world
-Exercise to get started with GitHub.
+Mi nombre es **Fernando Agustin Soza**, soy estudiante del *Certificado Profesional de Analisis de Datos de Google* en Coursera.
